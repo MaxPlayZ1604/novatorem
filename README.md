@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://maxplayz.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/max.neri)
+&nbsp; <br> [![Spotify](https://maxplayz.vercel.app/api/spotify?background_color=272727&border_color=1976d2)](https://open.spotify.com/user/max.neri)
 
   </td>
   <td width="50%">
